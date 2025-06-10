@@ -1,0 +1,16 @@
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/lib/servo_command_publisher/command_publisher
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/package_run_dependencies/servo_command_publisher
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/parent_prefix_path/servo_command_publisher
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/ament_prefix_path.sh
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/ament_prefix_path.dsv
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/path.sh
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/path.dsv
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.bash
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.sh
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.zsh
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.dsv
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/package.dsv
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/packages/servo_command_publisher
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/cmake/servo_command_publisherConfig.cmake
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/cmake/servo_command_publisherConfig-version.cmake
+/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/package.xml

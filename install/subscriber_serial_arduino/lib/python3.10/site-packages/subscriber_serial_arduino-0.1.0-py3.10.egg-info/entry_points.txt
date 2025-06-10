@@ -1,0 +1,3 @@
+[console_scripts]
+serial_node = subscriber_serial_arduino.serial_node:main
+

@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/command_publisher.dir/src/command_publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable command_publisher[0m
+[100%] Built target command_publisher
+-- Install configuration: ""
+-- Installing: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/lib/servo_command_publisher/command_publisher
+-- Set runtime path of "/home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/lib/servo_command_publisher/command_publisher" to ""
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/package_run_dependencies/servo_command_publisher
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/parent_prefix_path/servo_command_publisher
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/ament_prefix_path.sh
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/path.sh
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/path.dsv
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.bash
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.sh
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.zsh
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.dsv
+-- Installing: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/package.dsv
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/packages/servo_command_publisher
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/cmake/servo_command_publisherConfig.cmake
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/cmake/servo_command_publisherConfig-version.cmake
+-- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/package.xml

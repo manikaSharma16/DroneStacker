@@ -1,0 +1,8 @@
+source;share/servo_command_publisher/hook/cmake_prefix_path.ps1
+source;share/servo_command_publisher/hook/cmake_prefix_path.dsv
+source;share/servo_command_publisher/hook/cmake_prefix_path.sh
+source;share/servo_command_publisher/local_setup.bash
+source;share/servo_command_publisher/local_setup.dsv
+source;share/servo_command_publisher/local_setup.ps1
+source;share/servo_command_publisher/local_setup.sh
+source;share/servo_command_publisher/local_setup.zsh

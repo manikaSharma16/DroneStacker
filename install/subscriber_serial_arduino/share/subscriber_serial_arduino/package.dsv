@@ -1,0 +1,6 @@
+source;share/subscriber_serial_arduino/hook/pythonpath.ps1
+source;share/subscriber_serial_arduino/hook/pythonpath.dsv
+source;share/subscriber_serial_arduino/hook/pythonpath.sh
+source;share/subscriber_serial_arduino/hook/ament_prefix_path.ps1
+source;share/subscriber_serial_arduino/hook/ament_prefix_path.dsv
+source;share/subscriber_serial_arduino/hook/ament_prefix_path.sh

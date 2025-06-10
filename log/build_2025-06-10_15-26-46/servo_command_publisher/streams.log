@@ -1,0 +1,23 @@
+[0.017s] Invoking command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino:/opt/ros/humble /usr/bin/cmake --build /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher -- -j16 -l16
+[0.072s] [35m[1mConsolidate compiler generated dependencies of target command_publisher[0m
+[0.098s] [100%] Built target command_publisher
+[0.290s] Invoked command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino:/opt/ros/humble /usr/bin/cmake --build /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher -- -j16 -l16
+[0.303s] Invoking command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino:/opt/ros/humble /usr/bin/cmake --install /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher
+[0.314s] -- Install configuration: ""
+[0.314s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/lib/servo_command_publisher/command_publisher
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/package_run_dependencies/servo_command_publisher
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/parent_prefix_path/servo_command_publisher
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/ament_prefix_path.sh
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/ament_prefix_path.dsv
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/path.sh
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/environment/path.dsv
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.bash
+[0.315s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.sh
+[0.316s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.zsh
+[0.316s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/local_setup.dsv
+[0.316s] -- Installing: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/package.dsv
+[0.316s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/ament_index/resource_index/packages/servo_command_publisher
+[0.316s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/cmake/servo_command_publisherConfig.cmake
+[0.316s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/cmake/servo_command_publisherConfig-version.cmake
+[0.316s] -- Up-to-date: /home/manika/Desktop/LTU/Filip/drone_ws/install/servo_command_publisher/share/servo_command_publisher/package.xml
+[0.319s] Invoked command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino:/opt/ros/humble /usr/bin/cmake --install /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher

@@ -1,0 +1,10 @@
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/uninstall.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/servo_command_publisher_uninstall.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/command_publisher.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/test.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/edit_cache.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/rebuild_cache.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/list_install_components.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/install.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/install/local.dir
+/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher/CMakeFiles/install/strip.dir

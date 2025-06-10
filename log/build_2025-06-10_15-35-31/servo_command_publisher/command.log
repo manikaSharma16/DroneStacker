@@ -1,0 +1,4 @@
+Invoking command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher': /usr/bin/cmake --build /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher -- -j16 -l16
+Invoked command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher' returned '0': /usr/bin/cmake --build /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher -- -j16 -l16
+Invoking command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher': /usr/bin/cmake --install /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher
+Invoked command in '/home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher' returned '0': /usr/bin/cmake --install /home/manika/Desktop/LTU/Filip/drone_ws/build/servo_command_publisher

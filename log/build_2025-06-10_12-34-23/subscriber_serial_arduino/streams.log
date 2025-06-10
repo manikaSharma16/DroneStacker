@@ -1,0 +1,23 @@
+[0.496s] Invoking command in '/home/manika/Desktop/LTU/Filip/drone_ws/src/subscriber_serial_arduino': PYTHONPATH=/home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/subscriber_serial_arduino build --build-base /home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/build install --record /home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/install.log --single-version-externally-managed
+[0.649s] running egg_info
+[0.650s] writing ../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info/PKG-INFO
+[0.650s] writing dependency_links to ../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info/dependency_links.txt
+[0.650s] writing entry points to ../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info/entry_points.txt
+[0.650s] writing requirements to ../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info/requires.txt
+[0.650s] writing top-level names to ../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info/top_level.txt
+[0.652s] reading manifest file '../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info/SOURCES.txt'
+[0.658s] writing manifest file '../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info/SOURCES.txt'
+[0.658s] running build
+[0.658s] running build_py
+[0.658s] copying subscriber_serial_arduino/serial_node.py -> /home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/build/lib/subscriber_serial_arduino
+[0.658s] running install
+[0.659s] running install_lib
+[0.660s] copying /home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/build/lib/subscriber_serial_arduino/serial_node.py -> /home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino/lib/python3.10/site-packages/subscriber_serial_arduino
+[0.660s] byte-compiling /home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino/lib/python3.10/site-packages/subscriber_serial_arduino/serial_node.py to serial_node.cpython-310.pyc
+[0.661s] running install_egg_info
+[0.662s] removing '/home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino/lib/python3.10/site-packages/subscriber_serial_arduino-0.1.0-py3.10.egg-info' (and everything under it)
+[0.662s] Copying ../../build/subscriber_serial_arduino/subscriber_serial_arduino.egg-info to /home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino/lib/python3.10/site-packages/subscriber_serial_arduino-0.1.0-py3.10.egg-info
+[0.663s] running install_scripts
+[0.679s] Installing serial_node script to /home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino/lib/subscriber_serial_arduino
+[0.679s] writing list of installed files to '/home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/install.log'
+[0.696s] Invoked command in '/home/manika/Desktop/LTU/Filip/drone_ws/src/subscriber_serial_arduino' returned '0': PYTHONPATH=/home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manika/Desktop/LTU/Filip/drone_ws/install/subscriber_serial_arduino/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/subscriber_serial_arduino build --build-base /home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/build install --record /home/manika/Desktop/LTU/Filip/drone_ws/build/subscriber_serial_arduino/install.log --single-version-externally-managed
